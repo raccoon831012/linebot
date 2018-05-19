@@ -39,6 +39,7 @@ def callback():
 	signature = request.headers['X-Line-Signature']
 	body = request.get_data(as_text=True)
 	app.logger.info("Request body: " + body)
+	body = analys(body)
 	try:
 		handler.handle(body, signature)
 	except InvalidSignatureError:
@@ -65,3 +66,4 @@ def analys(body):
 			sum +=0;
 	sum = sum/i
 	body = "你評論該公司有"+str(sum)+"可能性違法勞基法"
+	return body
