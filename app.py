@@ -42,13 +42,14 @@ def callback():
 	sum = 0
 	i = 0
 	for word in words:
-    i = i+1
-    try:
-        sum = dicts[word]
-    except KeyError:
-        sum +=0;
+		i = i+1
+		try:
+			sum = dicts[word]
+		except KeyError:
+			sum +=0;
 	sum = sum/i
 	body = "你評論該公司有"+str(sum)+"可能性違法勞基法"
+	app.logger.info("Request body: " + body)
 	app.logger.info("Request body: " + body)
 	try:
 		handler.handle(body, signature)
