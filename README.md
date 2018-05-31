@@ -1,6 +1,6 @@
 # linebot
 
-![image]http://qr-official.line.me/L/C-ioXQ13iA.png
+![image](http://qr-official.line.me/L/C-ioXQ13iA.png)
 
 
 
