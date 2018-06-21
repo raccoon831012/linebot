@@ -17,5 +17,5 @@
 輸入文字後linebot會分析你評論的內容違法可能性
 
 # 後台管理(截至6/20)
-![image](https://github.com/raccoon831012/linebot/blob/master/%E6%93%B7%E5%8F%961.png)
+![image](https://github.com/raccoon831012/linebot/blob/master/%E6%93%B7%E5%8F%961.PNG)
 ![image](https://github.com/raccoon831012/linebot/blob/master/%E5%9C%96%E7%89%873.png)
