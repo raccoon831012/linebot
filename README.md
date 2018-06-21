@@ -3,11 +3,11 @@
 # QRcode
 ![image](https://github.com/raccoon831012/linebot/blob/master/QRcode.PNG)
 
+# 簡介
 ![image](https://github.com/raccoon831012/linebot/blob/master/%E5%9C%96%E7%89%871.png)
 
-![image](https://github.com/raccoon831012/linebot/blob/master/%E5%9C%96%E7%89%872.png111111)
+![image](https://github.com/raccoon831012/linebot/blob/master/%E5%9C%96%E7%89%872.png)
 
-# 簡介:
 加個好友試試看吧
 
 看看linebot會說甚麼
